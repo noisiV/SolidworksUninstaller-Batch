@@ -9,6 +9,7 @@ echo ==     RUN THE COPY SETTINGS WIZARD BEFORE USING THIS.     ==
 echo ==  THIS TOOL WORKS FOR SOLIDWORKS 2007, 2008, 2009, 2010  ==
 echo ==  ALSO CLEANS SRAC, DesignSource, GSSL, and BackOffice   ==
 echo == CLEANS REGISTRY, APPDATA, and PROGRAM FILES LEFT BEHIND ==
+echo ==              CREATED BY TYLER C. @0xTylerr              ==
 echo ============================================================= 
 echo TO BEGIN, SELECT WISH VERSION YOU WISH TO CLEAN
 echo 1. Solidworks 2007
